@@ -1,5 +1,5 @@
 
- class Addition{
+ public class Addition{
 	public static void main(String arg[]){
 		// comments
 
